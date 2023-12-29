@@ -1,7 +1,6 @@
 kind: pipeline
 name: Built Bot
 
-
 steps:
 - name: ROM
   image: baalajimaestro/android_build:latest
